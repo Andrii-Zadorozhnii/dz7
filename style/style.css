@@ -1,0 +1,387 @@
+body {
+    font-family: 'Open Sans';
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+hr {
+    border: 1px solid #828282;
+    width: 970px;
+    display: block;
+    margin: 0 235px 0;
+}
+
+button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 16px;
+    width: 180px;
+    height: 44px;
+    background: #070707;
+    border-radius: 22px;
+    margin: 70px 630px 30px;
+}
+
+h1 {
+    width: 300px;
+    height: 60px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    color: #070707;
+    margin: 12px 905px 50px 235px;
+}
+
+h4 {
+    display: block;
+}
+
+nav {
+    align-items: center;
+    padding: 0px;
+    margin: 25px 472px 25px;
+}
+
+img {
+    display: block;
+    width: 100%;
+    margin: 0px 235px 0px 235px;
+}
+
+.headerMenu {
+    text-align: center;
+    margin: 0px 0px;
+    width: 496px;
+    height: 30px;
+    color: #828282;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+
+
+.menu1 {
+    margin: 0px 20px 0px 0px;
+    text-decoration: none;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #070707;
+}
+
+.menu2,
+.menu3,
+.menu4 {
+    margin: 0px 20px 0px;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #828282;
+}
+
+.menu5 {
+    margin: 0px 0px 20px 0px;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #828282;
+}
+
+
+
+.banner {
+    max-width: 970px;
+    width: 100%;
+}
+
+
+/* aboutMe */
+
+.aboutMe {
+    background: #f6f6f6;
+}
+
+.headerAboutMe {
+    background: #f6f6f6;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    padding: 100px 385px 50px;
+}
+
+.description1 {
+    margin: 0px 235px;
+}
+
+.textAboutMe {
+    text-align: center;
+    width: 480px;
+    height: 210px;
+    padding-bottom: 100px;
+    margin-bottom: 100px;
+    margin: 0px 235px 0px;
+}
+
+.textPart1,
+.textPart2,
+.textPart3,
+.textPart4 {
+    width: 480px;
+    height: 50px;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #070707;
+    margin: 0 auto;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin: 0px 0px;
+}
+
+.textPart1 {
+    height: 25px;
+}
+
+.textPart2 {
+    height: 25px;
+}
+
+
+.textPart3 {
+    width: 406px;
+    height: 50px;
+    margin: 30px 37px 0px;
+}
+
+.textPart4 {
+    width: 321px;
+    height: 50px;
+    margin: 30px 79.5px 0px;
+}
+
+/* Skills */
+
+.skills {
+    width: 970px;
+    height: 564px;
+    margin: 0px 235px;
+    background: #FFFFFF
+}
+
+.headerSkills {
+    padding: 100px 360px 50px 360px;
+    width: 250px;
+    height: 84px;
+    text-align: center;
+    margin: 0px;
+}
+
+.titleSkills {
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 46px;
+    text-align: center;
+    color: #070707;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+
+.textSkills {
+    align-items: center;
+    margin: 0px;
+    text-align: center;
+}
+
+.applications {
+    border: 30px;
+    width: 970px;
+    height: 257px;
+}
+
+.app1,
+.app2,
+.app3 {
+    width: 170px;
+    height: 230px;
+    float: left;
+    margin-right: 96px;
+}
+
+.app4 {
+    width: 170px;
+    height: 230px;
+    float: left;
+    border-radius: 0px;
+    top: 0px;
+    margin-right: 0px;
+}
+
+img.skillsImage {
+    height: 80px;
+    width: 80px;
+    margin: 0px 44px 25px 44px;
+}
+
+img.skillsImageFigma {
+    width: 55px;
+    margin: 0px 56px 25px 56px;
+}
+
+.textUnderApp {
+    width: 80px;
+    height: 38px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    color: #828282;
+    text-align: center;
+    margin: 0px 44px 60px 44px;
+}
+
+.stars {
+    height: 26px;
+    width: 170px;
+    border-radius: 0px;
+}
+
+.star,
+.star1,
+.star5 {
+    height: 26px;
+    width: 26px;
+    float: left;
+    margin: 0px 10px 0px 0px;
+}
+
+.star1 {
+    margin: 0px 10px 0px 0px;
+}
+
+.star5 {
+    margin: 0px 0px 0px 0px;
+}
+
+/* Portfolio */
+
+.portfolio {
+    background: #F6F6F6;
+}
+
+.headerPortfolio {
+    text-align: center;
+    font-weight: 700;
+    font-size: 34px;
+    color: #070707;
+    padding: 100px 235px 50px;
+    margin: 0px auto;
+}
+
+.headerPortfolioText {
+    margin: 0 auto;
+}
+
+.linkUnderPicture {
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration-line: underline;
+    margin-top: 40px;
+    color: #070707;
+}
+
+.textUnderPicture {
+    width: 200px;
+    height: 50px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #070707;
+    margin: 40px 620px 70px;
+}
+
+.textUnderPictureBraun {
+    width: 260px;
+    height: 24px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #070707;
+    padding: 40px 590px 100px 590px;
+    margin: 0px;
+}
+
+/* Footer */
+
+.contactsHeader {
+    width: 280px;
+    height: 106px;
+}
+
+.h4contactsHeader {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 46px;
+    text-align: center;
+    color: #070707;
+    margin: 100px 645px 20px;
+}
+
+.contactText {
+    width: 280px;
+    height: 46px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #070707;
+    margin: 0px 580px 60px;
+}
+
+.buttonText {
+    width: 148px;
+    height: 24px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+
+.socialNetworks{
+    width: 340px;
+    height: 40px;
+    margin: 0px 565px 60px;
+}
+
+.contactLinkedin, .contactInstagram, .contactBehance{
+    margin-right: 50px;
+}
+
+.downPart{
+    width: 200px;
+height: 60px;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+color: #828282;
+margin: 0px 620px 100px
+}
