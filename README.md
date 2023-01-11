@@ -1,10 +1,10 @@
-# Homework #5
+# Homework #7
 
 Required:
 
-Export all images from the Denis Novik layout to the image folder.
-Create the html structure of this mockup.
+Add styles to Homework#5 layout according to the design.
+Don't forget to include normalize.css or reset.css
 
-Extra:
+Optional:
 
-The layout should be semantic
+Add styles to the resume made with HTML5 in the previous homework at your own discretion. Use the knowledge you have gained with CSS.
